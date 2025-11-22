@@ -1,11 +1,7 @@
 <div align="center">
     <h1>✨⚽️ Football Logos ⚽️✨</h1>
     <a href="https://football-logos.cc">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="screenshot-dark.png">
-            <source media="(prefers-color-scheme: light)" srcset="screenshot.png">
-            <img alt="Fallback image description" src="screenshot.png">
-        </picture>
+        <img src="screenshot.png">
     </a>
     <a href="https://football-logos.cc">
         football-logos.cc
