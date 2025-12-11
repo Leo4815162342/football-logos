@@ -260,6 +260,11 @@
 <img alt="Greece Football Logos Collection (transparent png and vector svg)" src="/logos/greece-1200x630.png" width="1200" height="630" />
 
 
+## 🇭🇹 [Haiti](https://football-logos.cc/haiti/)
+
+<img alt="Haiti Football Logos Collection (transparent png and vector svg)" src="/logos/haiti-1200x630.png" width="1200" height="630" />
+
+
 ## 🇭🇳 [Honduras](https://football-logos.cc/honduras/)
 
 <img alt="Honduras Football Logos Collection (transparent png and vector svg)" src="/logos/honduras-1200x630.png" width="1200" height="630" />
