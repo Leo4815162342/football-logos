@@ -160,6 +160,11 @@
 <img alt="Bulgaria Football Logos Collection (transparent png and vector svg)" src="/logos/bulgaria-1200x630.png" width="1200" height="630" />
 
 
+## 🇧🇫 [Burkina Faso](https://football-logos.cc/burkina-faso/)
+
+<img alt="Burkina Faso Football Logos Collection (transparent png and vector svg)" src="/logos/burkina-faso-1200x630.png" width="1200" height="630" />
+
+
 ## 🇨🇻 [Cabo Verde](https://football-logos.cc/cabo-verde/)
 
 <img alt="Cabo Verde Football Logos Collection (transparent png and vector svg)" src="/logos/cabo-verde-1200x630.png" width="1200" height="630" />
@@ -250,6 +255,11 @@
 <img alt="Egypt Football Logos Collection (transparent png and vector svg)" src="/logos/egypt-1200x630.png" width="1200" height="630" />
 
 
+## 🇸🇻 [El Salvador](https://football-logos.cc/el-salvador/)
+
+<img alt="El Salvador Football Logos Collection (transparent png and vector svg)" src="/logos/el-salvador-1200x630.png" width="1200" height="630" />
+
+
 ## 🇬🇶 [Equatorial Guinea](https://football-logos.cc/equatorial-guinea/)
 
 <img alt="Equatorial Guinea Football Logos Collection (transparent png and vector svg)" src="/logos/equatorial-guinea-1200x630.png" width="1200" height="630" />
@@ -258,6 +268,11 @@
 ## 🇪🇪 [Estonia](https://football-logos.cc/estonia/)
 
 <img alt="Estonia Football Logos Collection (transparent png and vector svg)" src="/logos/estonia-1200x630.png" width="1200" height="630" />
+
+
+## 🇪🇹 [Ethiopia](https://football-logos.cc/ethiopia/)
+
+<img alt="Ethiopia Football Logos Collection (transparent png and vector svg)" src="/logos/ethiopia-1200x630.png" width="1200" height="630" />
 
 
 ## 🇫🇴 [Faroe Islands](https://football-logos.cc/faroe-islands/)
@@ -380,6 +395,16 @@
 <img alt="Latvia Football Logos Collection (transparent png and vector svg)" src="/logos/latvia-1200x630.png" width="1200" height="630" />
 
 
+## 🇱🇧 [Lebanon](https://football-logos.cc/lebanon/)
+
+<img alt="Lebanon Football Logos Collection (transparent png and vector svg)" src="/logos/lebanon-1200x630.png" width="1200" height="630" />
+
+
+## 🇱🇷 [Liberia](https://football-logos.cc/liberia/)
+
+<img alt="Liberia Football Logos Collection (transparent png and vector svg)" src="/logos/liberia-1200x630.png" width="1200" height="630" />
+
+
 ## 🇱🇮 [Liechtenstein](https://football-logos.cc/liechtenstein/)
 
 <img alt="Liechtenstein Football Logos Collection (transparent png and vector svg)" src="/logos/liechtenstein-1200x630.png" width="1200" height="630" />
@@ -435,6 +460,11 @@
 <img alt="Mozambique Football Logos Collection (transparent png and vector svg)" src="/logos/mozambique-1200x630.png" width="1200" height="630" />
 
 
+## 🇳🇦 [Namibia](https://football-logos.cc/namibia/)
+
+<img alt="Namibia Football Logos Collection (transparent png and vector svg)" src="/logos/namibia-1200x630.png" width="1200" height="630" />
+
+
 ## 🇳🇬 [Nigeria](https://football-logos.cc/nigeria/)
 
 <img alt="Nigeria Football Logos Collection (transparent png and vector svg)" src="/logos/nigeria-1200x630.png" width="1200" height="630" />
@@ -475,6 +505,11 @@
 <img alt="Oman Football Logos Collection (transparent png and vector svg)" src="/logos/oman-1200x630.png" width="1200" height="630" />
 
 
+## 🇵🇰 [Pakistan](https://football-logos.cc/pakistan/)
+
+<img alt="Pakistan Football Logos Collection (transparent png and vector svg)" src="/logos/pakistan-1200x630.png" width="1200" height="630" />
+
+
 ## 🇵🇦 [Peru](https://football-logos.cc/peru/)
 
 <img alt="Peru Football Logos Collection (transparent png and vector svg)" src="/logos/peru-1200x630.png" width="1200" height="630" />
@@ -493,6 +528,11 @@
 ## 🇵🇾 [Paraguay](https://football-logos.cc/paraguay/)
 
 <img alt="Paraguay Football Logos Collection (transparent png and vector svg)" src="/logos/paraguay-1200x630.png" width="1200" height="630" />
+
+
+## 🇵🇸 [Palestine](https://football-logos.cc/palestine/)
+
+<img alt="Palestine Football Logos Collection (transparent png and vector svg)" src="/logos/palestine-1200x630.png" width="1200" height="630" />
 
 
 ## 🇶🇦 [Qatar](https://football-logos.cc/qatar/)
@@ -590,9 +630,19 @@
 <img alt="Syria Football Logos Collection (transparent png and vector svg)" src="/logos/syria-1200x630.png" width="1200" height="630" />
 
 
+## 🇹🇿 [Tanzania](https://football-logos.cc/tanzania/)
+
+<img alt="Tanzania Football Logos Collection (transparent png and vector svg)" src="/logos/tanzania-1200x630.png" width="1200" height="630" />
+
+
 ## 🇹🇭 [Thailand](https://football-logos.cc/thailand/)
 
 <img alt="Thailand Football Logos Collection (transparent png and vector svg)" src="/logos/thailand-1200x630.png" width="1200" height="630" />
+
+
+## 🇹🇬 [Togo](https://football-logos.cc/togo/)
+
+<img alt="Togo Football Logos Collection (transparent png and vector svg)" src="/logos/togo-1200x630.png" width="1200" height="630" />
 
 
 ## 🇹🇳 [Tunisia](https://football-logos.cc/tunisia/)
