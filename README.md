@@ -1129,3 +1129,28 @@
 
 <img alt="Northern Mariana Islands Football Logos Collection (transparent png and vector svg)" src="/logos/northern-mariana-islands-1200x630.png" width="1200" height="630" />
 
+
+## 🇵🇫 [Tahiti](https://football-logos.cc/tahiti/)
+
+<img alt="Tahiti Football Logos Collection (transparent png and vector svg)" src="/logos/tahiti-1200x630.png" width="1200" height="630" />
+
+
+## 🇨🇬 [Congo](https://football-logos.cc/congo/)
+
+<img alt="Congo Football Logos Collection (transparent png and vector svg)" src="/logos/congo-1200x630.png" width="1200" height="630" />
+
+
+## 🇼🇸 [Samoa](https://football-logos.cc/samoa/)
+
+<img alt="Samoa Football Logos Collection (transparent png and vector svg)" src="/logos/samoa-1200x630.png" width="1200" height="630" />
+
+
+## 🇻🇦 [Vatican City](https://football-logos.cc/vatican-city/)
+
+<img alt="Vatican City Football Logos Collection (transparent png and vector svg)" src="/logos/vatican-city-1200x630.png" width="1200" height="630" />
+
+
+## 🇬🇫 [French Guiana](https://football-logos.cc/french-guiana/)
+
+<img alt="French Guiana Football Logos Collection (transparent png and vector svg)" src="/logos/french-guiana-1200x630.png" width="1200" height="630" />
+
